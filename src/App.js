@@ -3,14 +3,16 @@ import logo from "./logo.svg";
 import { Counter } from "./features/counter/Counter";
 import "./App.css";
 import Login from "./pages/login/Login";
-import Header from './components/Header'
+import Header from "./components/Header";
 import { BrowserRouter } from "react-router-dom/cjs/react-router-dom.min";
 
 function App() {
   return (
     <BrowserRouter>
-    <Header />
-      <Login />
+      <Header />
+      <main>
+        <Login />
+      </main>
     </BrowserRouter>
     // <div className="App">
     //   <header className="App-header">
