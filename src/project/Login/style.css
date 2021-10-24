@@ -24,8 +24,11 @@ body {
     width: 100%;
     padding: 20px;
     background: rgba(4, 40, 68, 0.85);
+    height: 100vh;
   }
-  
+  button{
+    cursor: pointer;
+  }
   .login {
     border-radius: 2px 2px 5px 5px;
     padding: 10px 20px 20px 20px;
