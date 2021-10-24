@@ -1,0 +1,27 @@
+{
+  "auth": {
+    "login": "admin@mail.ru",
+    "password": "123456",
+    "token": "ZSjDGYhpeXUc0ylbPglZ"
+  },
+  "contacts": [
+    {
+      "first_name": "asdasd",
+      "last_name": "asdads",
+      "email": "dfsd@dsff.sdf",
+      "id": 6
+    },
+    {
+      "first_name": "Artur",
+      "last_name": "Ghazaryan",
+      "email": "ghazaryanartur21@gmail.com",
+      "id": 24
+    },
+    {
+      "email": "artur21@gmail.com",
+      "first_name": "Artur",
+      "last_name": "Ghazaryan",
+      "id": 25
+    }
+  ]
+}
